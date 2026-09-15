@@ -139,10 +139,10 @@ Chọn SQLite để dự án chạy được ngay sau `npm install` mà không c
 
 | Gói | Đối tượng | Giá |
 |---|---|---|
-| **Đồng Hành** (cơ bản) | Người cao tuổi minh mẫn, sống một mình | 220.000 đ/ca 4h · 55.000 đ/h · 6.300.000 đ/tháng |
-| **Phục Hồi** (nâng cao) | Sau tai biến, gãy xương, suy nhược | 380.000 đ/ca 4h · 95.000 đ/h · 11.000.000 đ/tháng |
-| **Chuyên Sâu** (đặc biệt) | Alzheimer nặng, ăn sonde, cần 24/7 | 1.300.000 đ/ca 12h · 25–30 triệu/tháng đầu · 32–40 triệu từ tháng thứ hai |
-| **Thủ Thuật Lẻ** | Can thiệp y tế tức thời tại nhà | 150.000 – 600.000 đ mỗi lần |
+| **Đồng Hành** (cơ bản) | Người cao tuổi minh mẫn, sống một mình | 280.000 VNĐ/ca 4h (70.000 VNĐ/h) 8.100.000 VNĐ/tháng (Ca 4h/ngày) |
+| **Phục Hồi** (nâng cao) | Sau tai biến, gãy xương, suy nhược | 400.000/ca 4h (100.000 VNĐ/h) 11.600.000/tháng (Ca 4h/ngày) |
+| **Chuyên Sâu** (đặc biệt) | Alzheimer nặng, ăn sonde, cần 24/7 | 1.680.000/ca 12h |
+| **Thủ Thuật Lẻ** | Can thiệp y tế tức thời tại nhà | 150.000 – 600.000 đ mỗi thủ thuật |
 
 Giá lưu trong bảng `packages`, sửa tại `server/seed.js` rồi chạy lại `npm run seed`.
 
